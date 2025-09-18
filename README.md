@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Multi-threaded](https://img.shields.io/badge/Multi--Threaded-Yes-success.svg)
 ![Automated](https://img.shields.io/badge/Automated-Yes-important.svg)
+![WebShare Proxy Generator ](https://cdn.discordapp.com/attachments/1413501158625906811/1418181178279858268/test.png?ex=68cd2fa5&is=68cbde25&hm=e7c238906b40a694c53b298540d528ea554fecbb45f082ddd334aef31462f2c8&)
 
 A  Python tool that automatically creates WebShare.io accounts, solves captchas, and extracts free proxies with multi-threading support.
 
